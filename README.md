@@ -14,7 +14,8 @@ Coba aplikasi ini secara langsung di Vercel:
 
 ## 📸 Tampilan Proyek
 
-![Demo KalkulatorPintar](https-://user-images.githubusercontent.com/...) 
+<img width="1920" height="1080" alt="Screenshot 2025-11-05 133724" src="https://github.com/user-attachments/assets/18a7530e-c645-4302-9980-a679926136e6" />
+
 ---
 
 ## ✨ Fitur Unggulan
